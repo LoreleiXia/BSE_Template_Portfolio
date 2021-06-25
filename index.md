@@ -113,8 +113,6 @@ My second milestone was to start on the glove aspect of my project. I replaced t
 
 </pre>
 
-My second milestone was to start on the glove aspect of my project. I reokaced the Arduino 
-
 [![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
 
