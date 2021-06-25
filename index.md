@@ -1,5 +1,5 @@
 ﻿# Gesture-Controlled Robot Car 
-Similarly to how TV shows and movie series animate powers which can move objects without manually holding them, I am working on a robot car which can move according to different hand gestures. Controlled by an Arduino, the gestures are registered through a makeshift glove. From here, it is then transmitted to the car, enabling it to move in different directions according to my hand gestures. 
+Similarly to how TV shows and movie series animate powers which can move objects without manually holding them, I am working on a robot car which can move according to different hand gestures. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
