@@ -17,7 +17,7 @@ Nada
 
 # Second Milestone 
 
-My second milestone was to start on the glove aspect of my project. I reokaced the Arduino 
+My second milestone was to start on the glove aspect of my project. I replaced the Arduino with an ESP-32 board, and wired everything accordingly. I then started on a code which would move the motors in certain directions according to a number that you send in the serial monitor. From here, I plan on working on the glove aspect of the project, starting off with configuring the wiring and code for the accelerometer. 
 
 
 <img width="839" alt="Screen Shot 2021-06-25 at 11 02 59 AM" src="https://user-images.githubusercontent.com/86121949/123467071-f06d9b80-d5a4-11eb-9fe7-20a84b5fdc0a.png">
