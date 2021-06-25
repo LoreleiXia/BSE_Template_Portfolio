@@ -12,9 +12,6 @@ Similarly to how TV shows and movie series animate powers which can move objects
 ![avatars-000297971625-hku9dk-t500x500](https://user-images.githubusercontent.com/86121949/122603767-b55dec00-d029-11eb-8ef5-acfa045e1816.jpeg)
 
 
-
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
-
 # Second Milestone 
 
 My second milestone was to start on the glove aspect of my project. I replaced the Arduino with an ESP-32 board, and wired everything accordingly. I then started on a code which would move the motors in certain directions according to a number that you send in the serial monitor. From here, I plan on working on the glove aspect of the project, starting off with configuring the wiring and code for the accelerometer. 
@@ -113,7 +110,6 @@ My second milestone was to start on the glove aspect of my project. I replaced t
 
 </pre>
 
-[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
 
 My first milestone was to understand the functioning of motors and motor drivers, and how I can implicate those into my robot car. Starting off, I downloaded the Arduino coding software, which I would use ot code the different commands that I wish my robot to execute. Moving on to the car, I began with working on powering only two motors/wheels, color-coding the different jumper wires used to connect the motors to the motor-driver outputs. From there, I plugged in a battery pack as my power source, while using a jumper wire to manually turn on each motor and drive in different directions. Due to its success, I added two more motors, stuffing the extra sets of jumper wires into the motor-driver outputs. However, instead of powering it manually, I used Arduino to code a simple code which would move all 4 tires simultaneously at a fixed speed. Once finished,  I disassembled the parts of my prototype and transferred the pieces onto a chassis, where I reassembled the pieces to complete my first milestone. 
