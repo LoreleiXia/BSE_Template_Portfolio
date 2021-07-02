@@ -1,7 +1,11 @@
 ﻿# Gesture-Controlled Robot Car 
 Similarly to how TV shows and movie series animate powers which can move objects without manually holding them, I am working on a robot car which can move according to different hand gestures! 
 
-![Headstone Image]<img width="668" alt="Screen Shot 2021-07-02 at 11 24 57 AM" src="https://user-images.githubusercontent.com/86121949/124314998-23c1a480-db28-11eb-9c10-9e171ad591e7.png">
+| **Engineer** | **School** | **Area of Interest** | **Grade** |
+|:--:|:--:|:--:|:--:|
+| Lorelei X. | IHS | Electrical Engineering | Incoming Sophomore
+
+<img width="668" alt="Screen Shot 2021-07-02 at 11 24 57 AM" src="https://user-images.githubusercontent.com/86121949/124314998-23c1a480-db28-11eb-9c10-9e171ad591e7.png">
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
