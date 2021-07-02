@@ -16,11 +16,6 @@ Similarly to how TV shows and movie series animate powers which can move objects
 
 My second milestone was to configure a setup where accelerometer values would be read and used to move the car accordingly. I began with testing out the accelerometer output values, which x,y, and z values changed according to the orientation of the device. I think plugged it into a secondary ESP, which would transmit the accelerometer values to the ESP attached to the vehicle. With this, I coded different thresholds that when crossed, the car would move accordingly. At the end, I was able to move the car according to the direction that I orient the accelerometer device. For my next milestone, I hope to achieve a LED light indicator system, which would light up according to the direction that the vehicle is going, similarly to a regular car. 
 
-
-<img width="839" alt="Screen Shot 2021-06-25 at 11 02 59 AM" src="https://user-images.githubusercontent.com/86121949/123467071-f06d9b80-d5a4-11eb-9fe7-20a84b5fdc0a.png">
-
-
-
 [![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625095547/video_to_markdown/images/youtube--osunMRoNDPg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=osunMRoNDPg "Lorelei's Second Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone
