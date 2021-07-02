@@ -9,7 +9,7 @@ Similarly to how TV shows and movie series animate powers which can move objects
   
 # Final Milestone
 
-![avatars-000297971625-hku9dk-t500x500](https://user-images.githubusercontent.com/86121949/122603767-b55dec00-d029-11eb-8ef5-acfa045e1816.jpeg)
+For my final milestone, I added a small modifcation of 4 LED lights. These LED lights are used to replicate the tailights of a regular car. For example, when the car is stopping, the red light would turn on. When the car is in reverse, the white lights would turn on. When the car is turning, the orange light would turn on. In this milestone, I did not have too much trouble configuring the LED lights, however it was a bit tedious to get all 4 sets of wires to stick onto the breadboard along with the rest of my gesture-controlled car. 
 
 
 # Second Milestone 
@@ -24,9 +24,16 @@ My first milestone was to understand the functioning of motors and motor drivers
 
 [![First Milestone][![Lorelei's First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624639367/video_to_markdown/images/youtube--0S75vxPjRFs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0S75vxPjRFs "Lorelei's First Milestone"){:target="_blank" rel="noopener"}
 
+# Photos
+<img width="660" alt="Screen Shot 2021-07-02 at 10 27 09 AM" src="https://user-images.githubusercontent.com/86121949/124309763-143e5d80-db20-11eb-94f0-f17f3a7cd45c.png">
+
+
+
 # Circuit Diagram
 
-<img width="839" alt="Screen Shot 2021-06-25 at 11 02 59 AM" src="https://user-images.githubusercontent.com/86121949/123467071-f06d9b80-d5a4-11eb-9fe7-20a84b5fdc0a.png">
+<img width="660" alt="Screen Shot 2021-06-25 at 11 02 59 AM" src="https://user-images.githubusercontent.com/86121949/123467071-f06d9b80-d5a4-11eb-9fe7-20a84b5fdc0a.png">
+
+
 
 # Code 
 
