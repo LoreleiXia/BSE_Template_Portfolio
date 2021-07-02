@@ -25,14 +25,20 @@ My first milestone was to understand the functioning of motors and motor drivers
 [![First Milestone][![Lorelei's First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624639367/video_to_markdown/images/youtube--0S75vxPjRFs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0S75vxPjRFs "Lorelei's First Milestone"){:target="_blank" rel="noopener"}
 
 # Photos
+
+<img width="1183" alt="Screen Shot 2021-07-02 at 10 29 31 AM" src="https://user-images.githubusercontent.com/86121949/124309979-667f7e80-db20-11eb-9599-c7caafa0427b.png">
+
 <img width="660" alt="Screen Shot 2021-07-02 at 10 27 09 AM" src="https://user-images.githubusercontent.com/86121949/124309763-143e5d80-db20-11eb-94f0-f17f3a7cd45c.png">
 
+<img width="1183" alt="Screen Shot 2021-07-02 at 10 30 37 AM" src="https://user-images.githubusercontent.com/86121949/124310089-8c0c8800-db20-11eb-9e63-1dab85038ee8.png">
 
+<img width="667" alt="Screen Shot 2021-07-02 at 10 31 07 AM" src="https://user-images.githubusercontent.com/86121949/124310136-9dee2b00-db20-11eb-8143-cec64759bf97.png">
+
+<img width="1184" alt="Screen Shot 2021-07-02 at 10 31 52 AM" src="https://user-images.githubusercontent.com/86121949/124310226-b8c09f80-db20-11eb-9ed4-040d68e4fdf5.png">
 
 # Circuit Diagram
 
 <img width="660" alt="Screen Shot 2021-06-25 at 11 02 59 AM" src="https://user-images.githubusercontent.com/86121949/123467071-f06d9b80-d5a4-11eb-9fe7-20a84b5fdc0a.png">
-
 
 
 # Code 
