@@ -5,12 +5,18 @@ Similarly to how TV shows and movie series animate powers which can move objects
 |:--:|:--:|:--:|:--:|
 | Lorelei X. | IHS | Electrical Engineering | Incoming Sophomore
 
-![Headstone Image](![avatars-000297971625-hku9dk-t500x500](https://user-images.githubusercontent.com/86121949/122603724-a6773980-d029-11eb-95e3-0591bc015a68.jpeg))
+![Headstone Image]<img width="668" alt="Screen Shot 2021-07-02 at 11 24 57 AM" src="https://user-images.githubusercontent.com/86121949/124314998-23c1a480-db28-11eb-9c10-9e171ad591e7.png">
+
+# Final Presentation
+[![Final Presentation](https://res.cloudinary.com/marcomontalbano/image/upload/v1625247910/video_to_markdown/images/youtube--I4hq-7FCWKA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=I4hq-7FCWKA "Final Presentation")
+
+Overall, my experience at Bluestamp, being able to work on an extraordinary project, designing and modifying based on what I want it to do, has increased my interest in software and mechanical engineering. I'm excited to use the rest of the project equipment recieved to add addional modifcations to my gesture-controlled robot! 
   
 # Final Milestone
 
 For my final milestone, I added a small modifcation of 4 LED lights. These LED lights are used to replicate the tailights of a regular car. For example, when the car is stopping, the red light would turn on. When the car is in reverse, the white lights would turn on. When the car is turning, the orange light would turn on. In this milestone, I did not have too much trouble configuring the LED lights, however it was a bit tedious to get all 4 sets of wires to stick onto the breadboard along with the rest of my gesture-controlled car. 
 
+[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625247707/video_to_markdown/images/youtube--kCBN4kyTVtA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=kCBN4kyTVtA "Lorelei's Third Milestone")
 
 # Second Milestone 
 
@@ -38,8 +44,11 @@ My first milestone was to understand the functioning of motors and motor drivers
 
 # Circuit Diagram
 
-<img width="660" alt="Screen Shot 2021-06-25 at 11 02 59 AM" src="https://user-images.githubusercontent.com/86121949/123467071-f06d9b80-d5a4-11eb-9fe7-20a84b5fdc0a.png">
+Robot Car: 
+<img width="857" alt="Screen Shot 2021-07-02 at 10 34 42 AM" src="https://user-images.githubusercontent.com/86121949/124310504-2371db00-db21-11eb-85a2-0c0b84b1987a.png">
 
+Glove: 
+<img width="483" alt="Screen Shot 2021-07-02 at 10 40 21 AM" src="https://user-images.githubusercontent.com/86121949/124311019-e9550900-db21-11eb-95da-e19f1833557c.png">
 
 # Code 
 
