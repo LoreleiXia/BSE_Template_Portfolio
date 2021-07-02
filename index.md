@@ -10,7 +10,7 @@ Similarly to how TV shows and movie series animate powers which can move objects
 # Final Presentation
 [![Final Presentation](https://res.cloudinary.com/marcomontalbano/image/upload/v1625247910/video_to_markdown/images/youtube--I4hq-7FCWKA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=I4hq-7FCWKA "Final Presentation")
 
-Overall, my experience at Bluestamp, being able to work on an extraordinary project, designing and modifying based on what I want it to do, has increased my interest in software and mechanical engineering. I'm excited to use the rest of the project equipment recieved to add addional modifcations to my gesture-controlled robot! 
+Overall, my experience at Bluestamp- being able to work on an extraordinary project, designing and modifying based on what I want it to do- has increased my interest in software and mechanical engineering. I'm excited to use the rest of the project equipment recieved to add addional modifcations to my gesture-controlled robot! 
   
 # Final Milestone
 
