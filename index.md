@@ -19,6 +19,22 @@ My second milestone was to configure a setup where accelerometer values would be
 
 <img width="839" alt="Screen Shot 2021-06-25 at 11 02 59 AM" src="https://user-images.githubusercontent.com/86121949/123467071-f06d9b80-d5a4-11eb-9fe7-20a84b5fdc0a.png">
 
+
+
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625095547/video_to_markdown/images/youtube--osunMRoNDPg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=osunMRoNDPg "Lorelei's Second Milestone"){:target="_blank" rel="noopener"}
+
+# First Milestone
+
+My first milestone was to understand the functioning of motors and motor drivers, and how I can implicate those into my robot car. Starting off, I downloaded the Arduino coding software, which I would use ot code the different commands that I wish my robot to execute. Moving on to the car, I began with working on powering only two motors/wheels, color-coding the different jumper wires used to connect the motors to the motor-driver outputs. From there, I plugged in a battery pack as my power source, while using a jumper wire to manually turn on each motor and drive in different directions. Due to its success, I added two more motors, stuffing the extra sets of jumper wires into the motor-driver outputs. However, instead of powering it manually, I used Arduino to code a simple code which would move all 4 tires simultaneously at a fixed speed. Once finished,  I disassembled the parts of my prototype and transferred the pieces onto a chassis, where I reassembled the pieces to complete my first milestone. 
+
+[![First Milestone][![Lorelei's First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624639367/video_to_markdown/images/youtube--0S75vxPjRFs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0S75vxPjRFs "Lorelei's First Milestone"){:target="_blank" rel="noopener"}
+
+# Circuit Diagram
+
+<img width="839" alt="Screen Shot 2021-06-25 at 11 02 59 AM" src="https://user-images.githubusercontent.com/86121949/123467071-f06d9b80-d5a4-11eb-9fe7-20a84b5fdc0a.png">
+
+# Code 
+
 <pre>
 
  &nbsp;<font color="#5e6d03">#include</font><font color="#434f54">&lt;</font><font color="#d35400">analogWrite</font><font color="#434f54">.</font><font color="#000000">h</font><font color="#434f54">&gt;</font>
@@ -109,17 +125,3 @@ My second milestone was to configure a setup where accelerometer values would be
 
 
 </pre>
-
-[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625095547/video_to_markdown/images/youtube--osunMRoNDPg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=osunMRoNDPg "Lorelei's Second Milestone"){:target="_blank" rel="noopener"}
-
-# First Milestone
-
-My first milestone was to understand the functioning of motors and motor drivers, and how I can implicate those into my robot car. Starting off, I downloaded the Arduino coding software, which I would use ot code the different commands that I wish my robot to execute. Moving on to the car, I began with working on powering only two motors/wheels, color-coding the different jumper wires used to connect the motors to the motor-driver outputs. From there, I plugged in a battery pack as my power source, while using a jumper wire to manually turn on each motor and drive in different directions. Due to its success, I added two more motors, stuffing the extra sets of jumper wires into the motor-driver outputs. However, instead of powering it manually, I used Arduino to code a simple code which would move all 4 tires simultaneously at a fixed speed. Once finished,  I disassembled the parts of my prototype and transferred the pieces onto a chassis, where I reassembled the pieces to complete my first milestone. 
-
-[![First Milestone][![Lorelei's First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624639367/video_to_markdown/images/youtube--0S75vxPjRFs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0S75vxPjRFs "Lorelei's First Milestone"){:target="_blank" rel="noopener"}
-
-# Circuit Diagram
-
-
-
-# Code 
