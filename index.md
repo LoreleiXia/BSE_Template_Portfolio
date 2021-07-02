@@ -8,7 +8,7 @@ Similarly to how TV shows and movie series animate powers which can move objects
 <img width="668" alt="Screen Shot 2021-07-02 at 11 24 57 AM" src="https://user-images.githubusercontent.com/86121949/124314998-23c1a480-db28-11eb-9c10-9e171ad591e7.png">
 
 # Final Presentation
-(https://res.cloudinary.com/marcomontalbano/image/upload/v1625247910/video_to_markdown/images/youtube--I4hq-7FCWKA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=I4hq-7FCWKA "Final Presentation")
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625247910/video_to_markdown/images/youtube--I4hq-7FCWKA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=I4hq-7FCWKA "Final Presentation")
 
 Overall, my experience at Bluestamp- being able to work on an extraordinary project, designing and modifying based on what I want it to do- has increased my interest in software and mechanical engineering. I'm excited to use the rest of the project equipment recieved to add addional modifcations to my gesture-controlled robot! 
   
