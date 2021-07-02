@@ -45,9 +45,11 @@ My first milestone was to understand the functioning of motors and motor drivers
 # Circuit Diagram
 
 Robot Car: 
+
 <img width="857" alt="Screen Shot 2021-07-02 at 10 34 42 AM" src="https://user-images.githubusercontent.com/86121949/124310504-2371db00-db21-11eb-85a2-0c0b84b1987a.png">
 
 Glove: 
+
 <img width="483" alt="Screen Shot 2021-07-02 at 10 40 21 AM" src="https://user-images.githubusercontent.com/86121949/124311019-e9550900-db21-11eb-95da-e19f1833557c.png">
 
 # Code 
