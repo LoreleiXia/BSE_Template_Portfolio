@@ -1,32 +1,32 @@
-﻿# Gesture-Controlled Robot Car 
-Similarly to how TV shows and movie series animate powers which can move objects without manually holding them, I am working on a robot car which can move according to different hand gestures! 
+﻿# Gesture-Controlled Robot Car!! 
+In many science-fiction TV shows and movie series, directors produce scenes where objects can be moved without manual relocation. Imitating this remote-controlled ability, I developed a robot-car that can move in different orientations according to different hand gestures! 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Lorelei X. | IHS | Engineering | Incoming Sophomore
+| Lorelei X. | IHS | Biomedical Engineering | Junior
 
 <img width="668" alt="Screen Shot 2021-07-02 at 11 24 57 AM" src="https://user-images.githubusercontent.com/86121949/124314998-23c1a480-db28-11eb-9c10-9e171ad591e7.png">
 
 # Final Presentation
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625247910/video_to_markdown/images/youtube--I4hq-7FCWKA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=I4hq-7FCWKA "Final Presentation")
 
-Overall, my experience at Bluestamp- being able to work on an extraordinary project, designing and modifying based on what I want it to do- has increased my interest in software and mechanical engineering. I'm excited to use the rest of the project equipment recieved to add addional modifcations to my gesture-controlled robot! 
+Overall, my experience with the development of the gesture-controlled robot car has been exceptionalyl enthralling. Throughout the duration of my project development, I trouble-shooted series of code, modified the vehicle's physical characteristics to increase simpplicity and efficiency, and practiced efficient documentation. Branching from the base project, I was also able to use my knowledge in software and mechanical engineering to add additional modifications. I'm excited to use the variety of workflow, engineering, and experimentation skills in future projects! 
   
 # Final Milestone
 
-For my final milestone, I added a small modifcation of 4 LED lights. These LED lights are used to replicate the tailights of a regular car. For example, when the car is stopping, the red light would turn on. When the car is in reverse, the white lights would turn on. When the car is turning, the orange light would turn on. In this milestone, I did not have too much trouble configuring the LED lights, however it was a bit tedious to get all 4 sets of wires to stick onto the breadboard along with the rest of my gesture-controlled car. 
+For my final milestone, I added a small modifcation of 4 LED lights. These LED lights are used to replicate the tailights of a regular car. I designed it so when the car is stopping, the red light would turn on. When the car is in reverse, the white lights would turn on. When the car is turning, the orange light would turn on. In adding these additioal modifications, I experienced difficulties in the organization of the vehicles parts, as the addition of the four lights and their respective wires increased the complexity of the vehicle system. While this is the preliminary end to my project design, I hope to increase the robot-car's realism. With the addition of safety systems - systems where the car would stop before crashing, sound and blinking systems (signaling, beeping) - I could mimic a real life car! 
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625247707/video_to_markdown/images/youtube--kCBN4kyTVtA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=kCBN4kyTVtA "Lorelei's Third Milestone")
 
 # Second Milestone 
 
-My second milestone was to configure a setup where accelerometer values would be read and used to move the car accordingly. I began with testing out the accelerometer output values, which x,y, and z values changed according to the orientation of the device. I think plugged it into a secondary ESP, which would transmit the accelerometer values to the ESP attached to the vehicle. With this, I coded different thresholds that when crossed, the car would move accordingly. At the end, I was able to move the car according to the direction that I orient the accelerometer device. For my next milestone, I hope to achieve a LED light indicator system, which would light up according to the direction that the vehicle is going, similarly to a regular car. 
+My second milestone was to configure a setup where accelerometer values would be read and used to move the car accordingly. I began with testing out the accelerometer output values and understanding the orientation values (x,y,z). I then plugged the accelerometer into a secondary ESP, which would transmit the values from the accelerometer, which was theoretically placed on the user's hand, to the ESP attached to the vehicle. With this, I coded different x,y, and z thresholds for right, left, front, and backward directions. If the accelerometer values crossed these thresholds, the car would alter it's orientation to the respective direction. Eventually, after securing the secondary ESP to the vehicle and adjusting the accelerometer parameters, I was able to successfully move the car according to different gestures! For my next milestone, I hope to achieve a LED light indicator system, which would light up according to the direction that the vehicle is going, similarly to a regular car! 
 
 [![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625095547/video_to_markdown/images/youtube--osunMRoNDPg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=osunMRoNDPg "Lorelei's Second Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone
 
-My first milestone was to understand the functioning of motors and motor drivers, and how I can implicate those into my robot car. I began with working on powering only two motors/wheels and using a jumper wire to manually turn on each motor and drive in different directions. Due to its success, I added two more motors, stuffing the extra sets of jumper wires into the motor-driver outputs. However, instead of powering it manually, I coded a simple code which would move all 4 tires simultaneously at a fixed speed. Once finished, I disassembled the parts of my prototype and transferred the pieces onto a chassis, where I reassembled the pieces to complete my first milestone. 
+For my first milestone, I studied the function of motors and motor drivers, and how I could utilize them in my gesture-controlled robot car. I started by constructing the foundation of my robot car, securing the motors, wheels, motor-drivers to the car chassis. To test the efficiency of two of the motors, I used a set of jumper wire to manually turn on each motor, watching the wheels turn in different directions. As a result from its success, I added two more motors to the base, completing the foundation of my gesture-controlled car. To avoid having to power the car manually, I compiled a simple code that could move all 4 tires simultaneously at a fixed speed and direction. However, the vehicle in its current state must be manually run by each code execution. For my next milestone, I hope to use the accelerometer to begin developing a more automatic driving system.  
 
 [![Lorelei's First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624639367/video_to_markdown/images/youtube--0S75vxPjRFs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0S75vxPjRFs "Lorelei's First Milestone"){:target="_blank" rel="noopener"}
 
